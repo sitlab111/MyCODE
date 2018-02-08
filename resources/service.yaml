@@ -1,0 +1,4 @@
+interactions:
+  name: "interactions"
+  urlsuffix: "/interactions/v2/admin"
+  version: "v2"
